@@ -1,0 +1,44 @@
+# Windows sistemine özel dosyalar
+Thumbs.db
+ehthumbs.db
+
+# .NET derleme çıktıları
+bin/
+obj/
+
+# Visual Studio Code (VSCode) özel dosyaları
+.vscode/
+
+# Rider IDE'ye özel dosyalar
+.idea/
+
+# .NET Core kullanıcı ayar dosyaları
+appsettings.Development.json
+
+# User-specific ve IDE-specific dosyalar
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+.vs/
+
+# Paket yöneticileri
+packages/
+.nuget/
+
+# JetBrains Rider'ın log dosyaları
+.idea/.idea.log
+
+# ASP.NET uygulamaları için geçici dosyalar
+wwwroot/
+
+# NPM package manager output
+node_modules/
+
+# .NET Core çıktı dosyaları
+out/
+
+# OS-specific dosyalar
+.DS_Store
+Desktop.ini
