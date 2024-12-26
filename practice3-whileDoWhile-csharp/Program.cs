@@ -91,7 +91,10 @@ class Program
 
         /* 
         DO - Do While Farkı
-        Do-while döngüsünde döngü en az bir kez çalışır ve sonrasında koşul kontrol edilir. Eğer koşul true ise döngü devam eder, false ise döngü sona erer. While döngüsünde döngüye başlamadan önce koşul kontrol edilir. Eğer koşul false (yanlış) ise, döngü hiçbir zaman çalışmaz.
+        Do-while döngüsünde döngü en az bir kez çalışır ve sonrasında koşul kontrol edilir. 
+        Eğer koşul true ise döngü devam eder, false ise döngü sona erer. 
+        While döngüsünde döngüye başlamadan önce koşul kontrol edilir. 
+        Eğer koşul false (yanlış) ise, döngü hiçbir zaman çalışmaz.
         
 
         int sayi;
