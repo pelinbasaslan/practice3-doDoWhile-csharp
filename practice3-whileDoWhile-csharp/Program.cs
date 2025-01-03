@@ -51,7 +51,7 @@ class Program
 
         //DO WHILE
 
-        int userInput3 = 0;
+       
         int sayac = 0;
         Console.Write("Bir sayı giriniz:");
         userInput3 = Convert.ToInt32(Console.ReadLine());
